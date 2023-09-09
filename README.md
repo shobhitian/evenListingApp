@@ -1,7 +1,7 @@
-#Event Listing App
+Event Listing App
 
 
-##Introduction
+Introduction
 
 The Event Listing App is a web application built using Django Rest Framework. It offers a platform for users to create and publish events, providing essential details such as event title, description, location (latitude and longitude), and date/time. Users can join events during the publishing process. The app utilizes location data to enable location-based event searches and results. Collaboratively developed with the front-end team, the API endpoints are seamlessly integrated into the user interface.
 Features
@@ -14,7 +14,7 @@ Features
 
     Front-End Integration: Collaborated with the front-end team to seamlessly integrate API endpoints into the user interface, ensuring a cohesive and user-friendly experience.
 
-##Technologies Used
+Technologies Used
 
 This project leverages the following technologies and tools:
 
